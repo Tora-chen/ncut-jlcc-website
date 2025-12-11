@@ -2,6 +2,8 @@
 
 北方工业大学日语社网站, 使用 [`svelte`](https://svelte.dev/) 开发。
 
+! 该仓库已归档，请转到 ncut-jlcc-next
+
 ## 快速开始
 
 你可以使用云开发环境，也可以在本地搭建开发环境。
@@ -97,5 +99,6 @@ npm run preview
 [Vercel↗](https://vercel.com/)
 
 [Edge One↗](https://www.tencentcloud.com/products/edgeone)
+
 
 
